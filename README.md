@@ -4,6 +4,8 @@ This project is a Python-based tool that leverages OpenAI's GPT-4 model to gener
 
 Install Dependencies: pip install openai
 
+API KEY : replace the api key with yours as open ai disables the api key after deploying the app to github
+
 Features
 
 Course Chapter Generation: Automatically generates a structured table of contents for courses based on user-provided input.
