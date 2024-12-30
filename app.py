@@ -3,6 +3,7 @@ import sqlite3
 from datetime import datetime
 
 #Initializing open api client 
+#replace the api key with yours as open ai disables the api key after deploying the app to github
 client = OpenAI(
     api_key="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"
 )
